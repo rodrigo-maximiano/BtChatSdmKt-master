@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BtChatSdmKt</string>
+    <array name="modos_app">
+        <item>Modo Cliente</item>
+        <item>Modo Servidor</item>
+    </array>
+</resources>
